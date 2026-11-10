@@ -12,6 +12,6 @@
 
 ## Ce que j'apprend
 
--**Git** : garder l'historique de mon projet
--**GitHub** : le partager en ligne
--*Markdown* : ecrire du texte mes en forme
+- **Git** : garder l'historique de mon projet
+- **GitHub** : le partager en ligne
+- *Markdown* : ecrire du texte mes en forme
